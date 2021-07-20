@@ -1,0 +1,86 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+h1{
+  padding-top: 15%;
+  padding-bottom: 5%;
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-size: 1.5rem;
+  font-family: "Montserrat";
+}
+p{
+  color: #8f8f8f;
+
+}
+.icon {
+  color: #323232;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: white;
+}
+#title{
+  background-color: #333333;
+  padding: 3% 10%;
+}
+.nav-item{
+  color:cyan;
+  padding: 0 10px !important;
+}
+.nav-link{
+  color:cyan !important;
+}
+.nav-link:hover{
+  color:white !important;
+}
+.logo{
+  padding-top: 5%;
+}
+/* features section */
+#features{
+  padding: 7% 15%;
+  background-color: cyan;
+}
+.features-box{
+  text-align: center;
+  padding: 100px 0 ;
+
+}
+
+/* testimonial Section */
+#testimonial{
+  padding: 5% 15%;
+  text-align: center;
+  background-color: #333333;
+  color:#fff;
+}
+.testimonial-img{
+
+  padding: 50px 0 20px;
+}
+
+/* Upcoming Contests */
+#contest{
+  background-color: cyan;
+  padding:7% 15%;
+}
+
+
+
+/* footer Section */
+
+
+#footer{
+  padding: 2% 15%;
+  text-align: center;
+
+}
+.social-icon{
+  margin: 20px 10px;
+}
